@@ -1,0 +1,45 @@
+
+Project Guidelines
+	1. create a folder on c: or d:
+	2. finalchallenge
+	3. in finalchallenge - create two subfolders -- backend and frontend
+	4. in the finalchallenge -- git init
+	5. create a .gitignore file in finalchallenge folder
+	6. add nodemodules in the .gitignore
+	7. in the backend folder  --you will create backend server
+		a. you create  a subfolder   
+			i. schema --
+			ii. routes
+			iii. server.js
+		b. you can copy package.json 
+		and run npm install
+		all dependencies will get copied
+		
+	8. frontend --design --
+		a. use folder structure as discussed in class and in demos ,for eg: services folder for storing service codes , components folder and its sub folders may be ,if required for components and its sub components
+		b. Add Router to App.js 
+		c. Provide the store , in case of Redux front end
+		d. 2 separate apps for front end -one with redux and other without it
+		e. Apply your styling skills , like bootstrap , react-bootstrap or even you can use react specific component based MaterialUI for creating UI
+		f. user login /logout -  hardcode -- later this feature can be modified  -- then you go for its backend  -schema and routes
+		g. features -- List page should show up with add/ update and delete operations on the entity
+		h. Query --all of them -- listing select *
+		i. filters  
+		j. search 
+		
+
+
+Please complete your course report once you are done with  final project .
+
+upload your codes daily to the github repo . Please add me as collaborator and configure settings for notifications
+
+every day plan to add something which adds value to your product and commit those changes
+
+Tentatively 25th October is the last day of working on project .
+
+Keep it simple , try to apply knowledge gained through out the course . Use class demo , of full stack as your reference material.
+
+Happy Coding!!
+
+
+
